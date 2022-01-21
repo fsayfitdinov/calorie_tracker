@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "language": "English",
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "just demo greeting"
+  },
+  "actions": "Actions"
+}
